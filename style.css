@@ -1,0 +1,37 @@
+/* Class general */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://images.unsplash.com/photo-1588793043912-6d6f30f5b885?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80");
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #dfe6e9;
+}
+
+img {
+  margin: 5% 0 0;
+  height: 250px;
+  border-radius: 60%;
+  border: #fff solid 5px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Work Sans";
+  font-size: 2.5rem;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: "Work Sans";
+  font-size: 2rem;
+}
+
+
+
+/* Class menu dinamic */
+
